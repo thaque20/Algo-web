@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
+        @include('index.includes.head')
         @include('index.includes.style')
     </head>
     <body data-spy="scroll" data-target=".navbar-scrolled" data-offset="0" class="scrollspy-example">
